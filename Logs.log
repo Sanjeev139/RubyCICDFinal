@@ -1,0 +1,271 @@
+# Logfile created on 2020-05-13 13:13:00 +0530 by logger.rb/v1.4.2
+I, [2020-05-13T13:13:00.578595 #9576]  INFO -- : Request Objects : {}
+I, [2020-05-13T13:13:00.584014 #9576]  INFO -- : Request Objects : {}
+I, [2020-05-13T13:13:00.588398 #9576]  INFO -- : Request Objects : {}
+I, [2020-05-13T13:13:00.589296 #9576]  INFO -- : Request Objects : {}
+I, [2020-05-13T13:13:00.590007 #9576]  INFO -- : Request Objects : {:MODE=>"X"}
+I, [2020-05-13T13:13:00.590589 #9576]  INFO -- : Request Objects : {}
+I, [2020-05-13T13:13:00.591207 #9576]  INFO -- : Request Objects : {}
+I, [2020-05-13T13:13:00.591840 #9576]  INFO -- : Request Objects : {}
+I, [2020-05-13T13:13:00.592522 #9576]  INFO -- : Request Objects : {}
+I, [2020-05-13T13:13:00.593388 #9576]  INFO -- : Request Objects : {}
+I, [2020-05-13T13:13:00.595011 #9576]  INFO -- : Request Objects : {}
+I, [2020-05-13T13:13:00.595571 #9576]  INFO -- : Request Objects : {}
+I, [2020-05-13T13:13:00.613741 #9576]  INFO -- : Options passed by client : {:merchant_id=>"555556"}
+I, [2020-05-13T13:13:00.614045 #9576]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556"}
+I, [2020-05-13T13:13:00.623110 #9576]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T13:13:00.623399 #9576]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T13:13:00.625281 #9576]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T13:13:00.625506 #9576]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T13:13:00.626985 #9576]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T13:13:00.627202 #9576]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T13:13:00.627803 #9576]  INFO -- : Options passed by client : {:merchant_id=>"555556"}
+I, [2020-05-13T13:13:00.628011 #9576]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556"}
+I, [2020-05-13T13:13:00.629729 #9576]  INFO -- : Options passed by client : {:merchant_id=>"555556"}
+I, [2020-05-13T13:13:00.629946 #9576]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556"}
+I, [2020-05-13T13:13:00.630537 #9576]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T13:13:00.630748 #9576]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T13:13:00.631696 #9576]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T13:13:00.633058 #9576]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T13:13:00.633665 #9576]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T13:13:00.633880 #9576]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T13:13:00.634485 #9576]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T13:13:00.634701 #9576]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T13:13:00.636217 #9576]  INFO -- : Options passed by client : {:merchant_id=>"123456", :ksalt=>"public-test-salt"}
+I, [2020-05-13T13:13:00.636435 #9576]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"123456", :ksalt=>"public-test-salt"}
+I, [2020-05-13T13:13:00.637011 #9576]  INFO -- : Options passed by client : {:merchant_id=>"123456", :ksalt=>"public-test-salt"}
+I, [2020-05-13T13:13:00.637220 #9576]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"123456", :ksalt=>"public-test-salt"}
+I, [2020-05-13T14:08:37.632781 #5052]  INFO -- : Request Objects : {}
+I, [2020-05-13T14:08:37.638453 #5052]  INFO -- : Request Objects : {}
+I, [2020-05-13T14:08:37.641846 #5052]  INFO -- : Request Objects : {}
+I, [2020-05-13T14:08:37.645202 #5052]  INFO -- : Request Objects : {}
+I, [2020-05-13T14:08:37.649552 #5052]  INFO -- : Request Objects : {:MODE=>"X"}
+I, [2020-05-13T14:08:37.650435 #5052]  INFO -- : Request Objects : {}
+I, [2020-05-13T14:08:37.650994 #5052]  INFO -- : Request Objects : {}
+I, [2020-05-13T14:08:37.651501 #5052]  INFO -- : Request Objects : {}
+I, [2020-05-13T14:08:37.652047 #5052]  INFO -- : Request Objects : {}
+I, [2020-05-13T14:08:37.653077 #5052]  INFO -- : Request Objects : {}
+I, [2020-05-13T14:08:37.656495 #5052]  INFO -- : Request Objects : {}
+I, [2020-05-13T14:08:37.657243 #5052]  INFO -- : Request Objects : {}
+I, [2020-05-13T14:08:37.674406 #5052]  INFO -- : Options passed by client : {:merchant_id=>"555556"}
+I, [2020-05-13T14:08:37.674861 #5052]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556"}
+I, [2020-05-13T14:08:37.681779 #5052]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T14:08:37.682121 #5052]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T14:08:37.682905 #5052]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T14:08:37.683149 #5052]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T14:08:37.683858 #5052]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T14:08:37.684108 #5052]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T14:08:37.684736 #5052]  INFO -- : Options passed by client : {:merchant_id=>"555556"}
+I, [2020-05-13T14:08:37.684969 #5052]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556"}
+I, [2020-05-13T14:08:37.685613 #5052]  INFO -- : Options passed by client : {:merchant_id=>"555556"}
+I, [2020-05-13T14:08:37.685861 #5052]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556"}
+I, [2020-05-13T14:08:37.686480 #5052]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T14:08:37.686715 #5052]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T14:08:37.687319 #5052]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T14:08:37.687552 #5052]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T14:08:37.688189 #5052]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T14:08:37.688484 #5052]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T14:08:37.689104 #5052]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T14:08:37.689340 #5052]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T14:08:37.689980 #5052]  INFO -- : Options passed by client : {:merchant_id=>"123456", :ksalt=>"public-test-salt"}
+I, [2020-05-13T14:08:37.690233 #5052]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"123456", :ksalt=>"public-test-salt"}
+I, [2020-05-13T14:08:37.690822 #5052]  INFO -- : Options passed by client : {:merchant_id=>"123456", :ksalt=>"public-test-salt"}
+I, [2020-05-13T14:08:37.691055 #5052]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"123456", :ksalt=>"public-test-salt"}
+I, [2020-05-13T14:09:54.556947 #2880]  INFO -- : Request Objects : {}
+I, [2020-05-13T14:09:54.563533 #2880]  INFO -- : Request Objects : {}
+I, [2020-05-13T14:09:54.569089 #2880]  INFO -- : Request Objects : {}
+I, [2020-05-13T14:09:54.574915 #2880]  INFO -- : Request Objects : {}
+I, [2020-05-13T14:09:54.576781 #2880]  INFO -- : Request Objects : {:MODE=>"X"}
+I, [2020-05-13T14:09:54.582143 #2880]  INFO -- : Request Objects : {}
+I, [2020-05-13T14:09:54.584316 #2880]  INFO -- : Request Objects : {}
+I, [2020-05-13T14:09:54.585145 #2880]  INFO -- : Request Objects : {}
+I, [2020-05-13T14:09:54.586928 #2880]  INFO -- : Request Objects : {}
+I, [2020-05-13T14:09:54.587523 #2880]  INFO -- : Request Objects : {}
+I, [2020-05-13T14:09:54.589167 #2880]  INFO -- : Request Objects : {}
+I, [2020-05-13T14:09:54.590628 #2880]  INFO -- : Request Objects : {}
+I, [2020-05-13T14:09:54.611950 #2880]  INFO -- : Options passed by client : {:merchant_id=>"555556"}
+I, [2020-05-13T14:09:54.612260 #2880]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556"}
+I, [2020-05-13T14:09:54.621122 #2880]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T14:09:54.621433 #2880]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T14:09:54.622224 #2880]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T14:09:54.623009 #2880]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T14:09:54.623692 #2880]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T14:09:54.623927 #2880]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T14:09:54.625021 #2880]  INFO -- : Options passed by client : {:merchant_id=>"555556"}
+I, [2020-05-13T14:09:54.625256 #2880]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556"}
+I, [2020-05-13T14:09:54.625868 #2880]  INFO -- : Options passed by client : {:merchant_id=>"555556"}
+I, [2020-05-13T14:09:54.626106 #2880]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556"}
+I, [2020-05-13T14:09:54.627182 #2880]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T14:09:54.627465 #2880]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T14:09:54.628077 #2880]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T14:09:54.628310 #2880]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T14:09:54.629647 #2880]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T14:09:54.629895 #2880]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T14:09:54.630510 #2880]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T14:09:54.630744 #2880]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T14:09:54.631358 #2880]  INFO -- : Options passed by client : {:merchant_id=>"123456", :ksalt=>"public-test-salt"}
+I, [2020-05-13T14:09:54.631588 #2880]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"123456", :ksalt=>"public-test-salt"}
+I, [2020-05-13T14:09:54.633074 #2880]  INFO -- : Options passed by client : {:merchant_id=>"123456", :ksalt=>"public-test-salt"}
+I, [2020-05-13T14:09:54.633308 #2880]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"123456", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:04:28.338885 #7928]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:04:28.346069 #7928]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:04:28.353102 #7928]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:04:28.358881 #7928]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:04:28.359735 #7928]  INFO -- : Request Objects : {:MODE=>"X"}
+I, [2020-05-13T16:04:28.361512 #7928]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:04:28.362089 #7928]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:04:28.363784 #7928]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:04:28.365429 #7928]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:04:28.365976 #7928]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:04:28.367423 #7928]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:04:28.367938 #7928]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:04:28.389363 #7928]  INFO -- : Options passed by client : {:merchant_id=>"555556"}
+I, [2020-05-13T16:04:28.390090 #7928]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556"}
+I, [2020-05-13T16:04:28.398341 #7928]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:04:28.398665 #7928]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:04:28.399458 #7928]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:04:28.399695 #7928]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:04:28.400906 #7928]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:04:28.401143 #7928]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:04:28.401823 #7928]  INFO -- : Options passed by client : {:merchant_id=>"555556"}
+I, [2020-05-13T16:04:28.402057 #7928]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556"}
+I, [2020-05-13T16:04:28.402663 #7928]  INFO -- : Options passed by client : {:merchant_id=>"555556"}
+I, [2020-05-13T16:04:28.402892 #7928]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556"}
+I, [2020-05-13T16:04:28.404004 #7928]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:04:28.404234 #7928]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:04:28.405659 #7928]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:04:28.405966 #7928]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:04:28.406861 #7928]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:04:28.407105 #7928]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:04:28.408965 #7928]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:04:28.409255 #7928]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:04:28.410140 #7928]  INFO -- : Options passed by client : {:merchant_id=>"123456", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:04:28.410413 #7928]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"123456", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:04:28.411251 #7928]  INFO -- : Options passed by client : {:merchant_id=>"123456", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:04:28.411733 #7928]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"123456", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:32:33.621460 #8788]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:32:33.628735 #8788]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:32:33.634247 #8788]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:32:33.640391 #8788]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:32:33.642356 #8788]  INFO -- : Request Objects : {:MODE=>"X"}
+I, [2020-05-13T16:32:33.643009 #8788]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:32:33.644799 #8788]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:32:33.645373 #8788]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:32:33.647016 #8788]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:32:33.648513 #8788]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:32:33.649063 #8788]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:32:33.650500 #8788]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:32:33.672336 #8788]  INFO -- : Options passed by client : {:merchant_id=>"555556"}
+I, [2020-05-13T16:32:33.672660 #8788]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556"}
+I, [2020-05-13T16:32:33.680908 #8788]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:32:33.681224 #8788]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:32:33.682601 #8788]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:32:33.682913 #8788]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:32:33.683653 #8788]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:32:33.683902 #8788]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:32:33.685044 #8788]  INFO -- : Options passed by client : {:merchant_id=>"555556"}
+I, [2020-05-13T16:32:33.685292 #8788]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556"}
+I, [2020-05-13T16:32:33.685929 #8788]  INFO -- : Options passed by client : {:merchant_id=>"555556"}
+I, [2020-05-13T16:32:33.686173 #8788]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556"}
+I, [2020-05-13T16:32:33.687791 #8788]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:32:33.688424 #8788]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:32:33.689107 #8788]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:32:33.689360 #8788]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:32:33.690027 #8788]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:32:33.690276 #8788]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:32:33.691781 #8788]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:32:33.692030 #8788]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:32:33.693632 #8788]  INFO -- : Options passed by client : {:merchant_id=>"123456", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:32:33.693885 #8788]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"123456", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:32:33.694518 #8788]  INFO -- : Options passed by client : {:merchant_id=>"123456", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:32:33.694766 #8788]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"123456", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:32:44.280464 #6664]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:32:44.286644 #6664]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:32:44.291283 #6664]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:32:44.295969 #6664]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:32:44.297268 #6664]  INFO -- : Request Objects : {:MODE=>"X"}
+I, [2020-05-13T16:32:44.298104 #6664]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:32:44.298804 #6664]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:32:44.299472 #6664]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:32:44.300086 #6664]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:32:44.300712 #6664]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:32:44.301333 #6664]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:32:44.301976 #6664]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:32:44.317905 #6664]  INFO -- : Options passed by client : {:merchant_id=>"555556"}
+I, [2020-05-13T16:32:44.318322 #6664]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556"}
+I, [2020-05-13T16:32:44.324473 #6664]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:32:44.324784 #6664]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:32:44.325533 #6664]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:32:44.325771 #6664]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:32:44.326450 #6664]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:32:44.326700 #6664]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:32:44.327305 #6664]  INFO -- : Options passed by client : {:merchant_id=>"555556"}
+I, [2020-05-13T16:32:44.327545 #6664]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556"}
+I, [2020-05-13T16:32:44.329108 #6664]  INFO -- : Options passed by client : {:merchant_id=>"555556"}
+I, [2020-05-13T16:32:44.329520 #6664]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556"}
+I, [2020-05-13T16:32:44.330553 #6664]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:32:44.331173 #6664]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:32:44.331898 #6664]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:32:44.332134 #6664]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:32:44.333362 #6664]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:32:44.333675 #6664]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:32:44.334402 #6664]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:32:44.334637 #6664]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:32:44.335484 #6664]  INFO -- : Options passed by client : {:merchant_id=>"123456", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:32:44.335729 #6664]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"123456", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:32:44.336446 #6664]  INFO -- : Options passed by client : {:merchant_id=>"123456", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:32:44.336713 #6664]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"123456", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:33:23.790523 #980]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:33:23.841456 #980]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:33:23.862155 #980]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:33:23.884736 #980]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:33:23.892891 #980]  INFO -- : Request Objects : {:MODE=>"X"}
+I, [2020-05-13T16:33:23.924010 #980]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:33:23.925698 #980]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:33:23.961096 #980]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:33:23.976738 #980]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:33:23.988800 #980]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:33:23.990203 #980]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:33:24.028196 #980]  INFO -- : Request Objects : {}
+I, [2020-05-13T16:33:24.067963 #980]  INFO -- : Options passed by client : {:merchant_id=>"555556"}
+I, [2020-05-13T16:33:24.068415 #980]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556"}
+I, [2020-05-13T16:33:24.080587 #980]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:33:24.081059 #980]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:33:24.082158 #980]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:33:24.082600 #980]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:33:24.083583 #980]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:33:24.083963 #980]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:33:24.084792 #980]  INFO -- : Options passed by client : {:merchant_id=>"555556"}
+I, [2020-05-13T16:33:24.085033 #980]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556"}
+I, [2020-05-13T16:33:24.086499 #980]  INFO -- : Options passed by client : {:merchant_id=>"555556"}
+I, [2020-05-13T16:33:24.086899 #980]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556"}
+I, [2020-05-13T16:33:24.087768 #980]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:33:24.088037 #980]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:33:24.089913 #980]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:33:24.090292 #980]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:33:24.091226 #980]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:33:24.091614 #980]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:33:24.092409 #980]  INFO -- : Options passed by client : {:merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:33:24.092771 #980]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:33:24.093695 #980]  INFO -- : Options passed by client : {:merchant_id=>"123456", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:33:24.094120 #980]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"123456", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:33:24.095029 #980]  INFO -- : Options passed by client : {:merchant_id=>"123456", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:33:24.095304 #980]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"123456", :ksalt=>"public-test-salt"}
+I, [2020-05-13T16:34:32.962348 #10424]  INFO -- : Options passed by client : {:merchant_id=>"555556"}
+I, [2020-05-13T16:34:32.967767 #10424]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556"}
+I, [2020-05-13T16:34:32.978013 #10424]  INFO -- : Options passed by client : {:merchant_id=>"555556"}
+I, [2020-05-13T16:34:32.982368 #10424]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556"}
+I, [2020-05-13T16:34:32.983988 #10424]  INFO -- : Options passed by client : {:merchant_id=>"555556"}
+I, [2020-05-13T16:34:32.984350 #10424]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556"}
+I, [2020-05-13T16:34:32.985206 #10424]  INFO -- : Options passed by client : {:merchant_id=>"555556"}
+I, [2020-05-13T16:34:32.985441 #10424]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :merchant_id=>"555556"}
+I, [2020-05-13T16:34:32.986169 #10424]  INFO -- : Options passed by client : {:is_test=>true}
+I, [2020-05-13T16:34:32.986389 #10424]  INFO -- : Options Params : {:endpoint=>"https://risk.test.kount.net", :version=>"0700", :timeout=>10, :is_test=>true}
+I, [2020-05-13T16:34:32.987073 #10424]  INFO -- : Options passed by client : {:is_test=>true}
+I, [2020-05-13T16:34:32.987397 #10424]  INFO -- : Options Params : {:endpoint=>"https://risk.test.kount.net", :version=>"0700", :timeout=>10, :is_test=>true}
+I, [2020-05-13T16:34:32.988164 #10424]  INFO -- : Options passed by client : {:endpoint=>"https://mycustom.endpoint.com"}
+I, [2020-05-13T16:34:32.988430 #10424]  INFO -- : Options Params : {:endpoint=>"https://mycustom.endpoint.com", :version=>"0700", :is_test=>false, :timeout=>10}
+I, [2020-05-13T16:34:32.989093 #10424]  INFO -- : Options passed by client : {:endpoint=>"https://mycustom.endpoint.com"}
+I, [2020-05-13T16:34:32.989329 #10424]  INFO -- : Options Params : {:endpoint=>"https://mycustom.endpoint.com", :version=>"0700", :is_test=>false, :timeout=>10}
+I, [2020-05-13T16:34:32.990180 #10424]  INFO -- : Options passed by client : {:key=>"1234567890987654321QWERTYUIOP"}
+I, [2020-05-13T16:34:32.990434 #10424]  INFO -- : Options Params : {:endpoint=>"https://risk.kount.net", :version=>"0700", :is_test=>false, :timeout=>10, :key=>"1234567890987654321QWERTYUIOP"}
