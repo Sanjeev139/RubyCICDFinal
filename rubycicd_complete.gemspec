@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'rubycicd_uat'
-  s.version     = '2.0.6'
+  s.version     = '2.0.8'
   s.summary     = "Ruby CI/CD Services Wrapper"
   s.description = "A wrapper to facilitate making RUBY CI/CD RIS calls"
   s.email       = 'ruby@sanjeev.com'
