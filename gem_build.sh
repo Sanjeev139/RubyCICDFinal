@@ -3,7 +3,7 @@
 set -x
 set -e
 
-gem build kount_complete.gemspec
+gem build rubycicd_complete.gemspec
 
 files=$(ls | grep gem)
 for file in $files
