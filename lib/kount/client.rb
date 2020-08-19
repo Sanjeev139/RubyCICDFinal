@@ -86,7 +86,7 @@ module Kount
             Current Timeout option valus is #{timeout}, 
             Use Default timeout which is 10 sec.")
         else
-          @logger.error("#{response}")
+          @logger.error("#{response}").to_s
         end
         response
       end
