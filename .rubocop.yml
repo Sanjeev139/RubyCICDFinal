@@ -48,6 +48,14 @@ Layout/MultilineArrayBraceLayout:
 Metrics/BlockLength:
   Max: 500
 
+# for disabling Prefer to_s over string interpolation
+Style/RedundantInterpolation:
+  Enabled: false
+  
+# for disabling Extra empty line detected
+Layout/EmptyLinesAroundClassBody:
+  Enabled: false
+
 # for disabling the warning about - 'Space missing inside the block braces'
 Layout/SpaceInsideBlockBraces:
   Enabled: false
