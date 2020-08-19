@@ -30,7 +30,7 @@ Layout/EndOfLine:
 
 # for disabling the use snake_case for variable
 Naming/VariableName:
-  Enabled: false
+  Enabled: true
 
 # for disabling ' %w-literals should be delimited by [ and ].' warning
 Style/PercentLiteralDelimiters:
